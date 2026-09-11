@@ -1,4 +1,10 @@
 // Package handle normalizes TikTok handles and profile URLs.
+//
+// It backs the tikviewer command, a small helper for TikViewer, a free
+// browser tool for watching someone's TikTok stories anonymously —
+// no login, no app to install, and the story owner never knows you looked.
+//
+// Homepage: https://tikviewer.org/
 package handle
 
 import (
